@@ -5,6 +5,7 @@ It is an interactive Streamlit app that estimates your annual CO₂ footprint ba
 It adapts units automatically for India, the USA, or the UK and shows a clear category breakdown (Transport, Electricity, Diet, Waste).  
 Eco-badges (Gold, Silver, Bronze) reward low emissions, while real-world equivalents (flights, driving, trees) bring your impact into perspective.  
 Actionable offsetting tips and a persistent Emission History table help you track progress and reduce your carbon footprint over time.
+https://personal-carbon-emission-calculator.streamlit.app/
 
 ## 🚀 Features
 - **Simple & User-Friendly UI** using Streamlit  
